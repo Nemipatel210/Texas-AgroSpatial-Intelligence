@@ -36,11 +36,9 @@ The analysis relies on public datasets including:
 * **TNRIS (Texas Natural Resources Information System):** Base GIS layers for Texas counties and administrative boundaries.
 
 ## 📊 Sample Visualizations
+<img width="439" height="342" alt="Screenshot 2026-01-14 at 10 16 35 AM" src="https://github.com/user-attachments/assets/45b414d1-7de1-4f3b-ac82-0d7983d944c6" />
 
-*(You can add screenshots of your Folium maps or Seaborn plots here)*
-
-* *Figure 1: Choropleth map showing irrigation intensity by county.*
-* *Figure 2: Spatial distribution of active wells overlaid on agricultural zones.*
+<img width="837" height="370" alt="Screenshot 2026-01-14 at 10 16 05 AM" src="https://github.com/user-attachments/assets/32f5c1de-8033-495f-94fc-ec4f8e2ea339" />
 
 ---
 
